@@ -3,8 +3,8 @@ import psycopg2
 from datetime import datetime, timedelta
 
 db_params = {
-        'user': 'postgres',
-        'password': 'thisistest1#',
+        'user': 'USERNAME',
+        'password': "PASSWORD",
         'host': 'database-1.c58ywwqk2w5e.us-east-2.rds.amazonaws.com',
         'port': '5432'
 }
