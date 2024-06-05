@@ -1,4 +1,4 @@
-# Telemetry Data Processing POC
+# Telemetry Data Processing
 
 This project is a proof-of-concept (POC) that demonstrates the ingestion, processing and visualization of open-source telemetry data using Python, AWS services, PostgreSQL and Grafana.
 
